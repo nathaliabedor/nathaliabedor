@@ -1,10 +1,6 @@
 <h1 align="center">Olá👋, Eu sou a Nathalia</h1>
 <h3 align="center">Uma programadora engajada no mundo dos dados</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliabedor&label=Profile%20views&color=0e75b6&style=flat" alt="nathaliabedor" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathaliabedor" alt="nathaliabedor" /></a> </p>
-
 - 🌱 Atualmente estou aprendendo sobre **Inteligência Artificial e UI/UX**
 
 - 👯 Eu procuro colaborar em **projetos de ciência de dados, criação de sites e BI.**
