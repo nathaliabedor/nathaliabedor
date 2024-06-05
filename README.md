@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 <h1 align="center">Olá👋, Eu sou a Nathalia</h1>
 <h3 align="center">Uma programadora engajada no mundo dos dados</h3>
 
@@ -31,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathaliabedor&show_icons=true&locale=en" alt="nathaliabedor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathaliabedor&" alt="nathaliabedor" /></p>
-
--->
