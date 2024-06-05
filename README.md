@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Olá👋, Eu sou a Nathalia</h1>
 <h3 align="center">Uma programadora engajada no mundo dos dados</h3>
 
